@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Statistic</string>
+    <string name="login_button">Нэвтрэх</string>
+
+    <string-array name="country_array">
+        <item>Mongolio</item>
+        <item>Russia</item>
+        <item>China</item>
+        <item>USA</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
